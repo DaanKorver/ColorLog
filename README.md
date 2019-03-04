@@ -42,7 +42,6 @@ cl.error(string)
 The ```String``` paramater expects a string. This is the string that outputs in the console.
 This function can be used to log a custom error.
 You can use this function as followed:
-
 ```
 cl.error("Whoops, an error occured here");
 ```
@@ -55,8 +54,9 @@ The output will be the following:
 ```
 cl.isColorName(color);
 ```
-This function returns true if the color is a color based on its name. If this is not the case, it returns false.
-You can use this function as followed:
+### -Color
+The ```color``` paramater expects a string. This is the color that will be checked on name.
+
 ```
 //Returns false
 cl.isColorName("greens");
@@ -70,6 +70,7 @@ cl.isColorName("green");
 ```
 cl.isColorHex(color);
 ```
+The ```color``` paramater expects a string. This is the color that will be checked on hex value.
 This function returns true if the color is a color based on its hex value. if this is not the case, it returns false.
 
 ```
