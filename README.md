@@ -10,8 +10,20 @@ These are the current functions in the library:
 
 ## log
 ```
-cl.log(string, color, background-color, font-size);
+cl.log(message, color, background-color, font-size);
 ```
+### -Message
+The ```message``` paramater expects a string. This is the string that outputs in the console.
+
+### -Color
+The ```color``` paramater expects a string. This will set the text color.
+
+### -Background-color
+The ```background-color``` paramater expects a string. This will set the background color.
+
+### -Font-size
+The ```color``` paramater expects a string. This will set the font size.
+
 This function can be used to log things with different styles.
 You can use this function as followed:
 ```
@@ -26,6 +38,8 @@ The output wil be the following:
 ```
 cl.error(string)
 ```
+### -String
+The ```String``` paramater expects a string. This is the string that outputs in the console.
 This function can be used to log a custom error.
 You can use this function as followed:
 
