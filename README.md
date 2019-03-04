@@ -10,6 +10,12 @@ You can install the library in two different ways.
   3. Add the script to the HTML file
   
   **IMPORTANT: Make sure your main JavaScript file is above the ColorLog.js file in the markup!**
+  Example:
+  
+  ```
+  <script src="main.js"></script>
+  <script src="ColorLog.js"></script>
+  ```
   
 ### Option 2
   Use the CDN:
@@ -20,6 +26,13 @@ You can install the library in two different ways.
   ```<script src="http://www.cdn.daankorver.com/library/ColorLog/ColorLog.js"></script>```
   
   **IMPORTANT: The CDN is not online yet so this option becomes available soon!**
+  **IMPORTANT: Make sure your main JavaScript file is above the ColorLog.js file in the markup!**
+  Example:
+  
+  ```
+  <script src="main.js"></script>
+  <script src="http://www.cdn.daankorver.com/library/ColorLog/ColorLog.js"></script>
+  ```
 
 # Docs
 
