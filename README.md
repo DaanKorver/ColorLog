@@ -28,7 +28,7 @@ You can install the library in two different ways.
   
   **IMPORTANT: The CDN is not online yet so this option becomes available soon!**
   
-  **IMPORTANT: Make sure the ColorLog.js file is above your main JavaScript file in the markup!**
+  **IMPORTANT: Make sure the CND Link is above your main JavaScript file in the markup!**
   
   Example:
   
