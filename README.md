@@ -35,3 +35,33 @@ cl.error("Whoops, an error occured here");
 The output will be the following:
 
 ![Screenshot](assets/output2.png)
+
+## isColorName
+
+```
+cl.isColorName(color);
+```
+This function returns true if the color is a color based on its name. If this is not the case, it returns false.
+You can use this function as followed:
+```
+//Returns false
+cl.isColorName("greens");
+
+//Returns true
+cl.isColorName("green");
+```
+
+## isColorHex
+
+```
+cl.isColorHex(color);
+```
+This function returns true if the color is a color based on its hex value. if this is not the case, it returns false.
+
+```
+//Returns False
+cl.isColorHex("#fffff");
+
+//Returns True
+Returns True("#ffffff");
+```
