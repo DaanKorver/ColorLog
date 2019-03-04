@@ -1,8 +1,23 @@
 # ColorLog
 A libary full with color functions and console log functions of course!
 
-# Why ColorLog.js?
-Cuz why not...
+# Installation
+You can install the library in two different ways.
+
+## Option 1
+  1. Download the file from github.
+  2. Move to file to your work folder.
+  3. Add the script to the HTML file
+  **IMPORTANT: Make sure your main JavaScript file is above the ColorLog.js file in the markup!**
+  
+## Option 2
+  Use the CDN:
+  http://www.cdn.daankorver.com/library/ColorLog/ColorLog.js
+  
+  And paste it in the script as following:
+  ```<script src="http://www.cdn.daankorver.com/library/ColorLog/ColorLog.js"></script>```
+  
+  **IMPORTANT: The CDN is not online yet so this option becomes available soon!**
 
 # Docs
 
