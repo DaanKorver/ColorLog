@@ -15,6 +15,7 @@ You can install the library in two different ways.
   http://www.cdn.daankorver.com/library/ColorLog/ColorLog.js
   
   And paste it in the script as following:
+  
   ```<script src="http://www.cdn.daankorver.com/library/ColorLog/ColorLog.js"></script>```
   
   **IMPORTANT: The CDN is not online yet so this option becomes available soon!**
