@@ -20,3 +20,18 @@ cl.log("Hello World!", "Green", "#000", "20px");
 The output wil be the following:
 
 ![Screenshot](assets/output1.png)
+
+## error
+
+```
+cl.error(string)
+```
+This function can be used to log a custom error.
+You can use this function as followed:
+
+```
+cl.error("Whoops, an error occured here");
+```
+The output will be the following:
+
+![Screenshot](assets/output2.png)
