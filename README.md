@@ -8,6 +8,7 @@ You can install the library in two different ways.
   1. Download the file from github.
   2. Move to file to your work folder.
   3. Add the script to the HTML file
+  
   **IMPORTANT: Make sure your main JavaScript file is above the ColorLog.js file in the markup!**
   
 ### Option 2
