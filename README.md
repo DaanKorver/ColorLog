@@ -18,4 +18,5 @@ You can use this function as followed:
 cl.log("Hello World!", "Green", "#000", "20px");
 ```
 The output wil be the following:
+
 ![Screenshot](assets/output1.png)
